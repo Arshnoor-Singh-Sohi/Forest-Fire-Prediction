@@ -1,7 +1,5 @@
 # 🔥 Forest Fire Prediction System
 
-![Forest Fire Banner](https://images.unsplash.com/photo-1601058497098-678495bac67d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=400&q=80)
-
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
